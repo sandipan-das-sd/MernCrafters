@@ -1,0 +1,19 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(222, 44, 44) ! important;
+    font-weight: 600;
+
+}
+.accordion {
+    background-color: rgb(239, 233, 233); /* Set background color to white */
+    margin: auto; /* Center the accordion */
+    width: 100%; /* Adjust the width as needed */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Optional: Add box-shadow for better visibility */
+}
+
+.accordion .card {
+    border: none; /* Remove border to make it look cleaner */
+}
+
+.accordion .card-header {
+    background-color: white; /* Set background color to white */
+}
